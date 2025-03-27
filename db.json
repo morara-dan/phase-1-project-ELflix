@@ -1,0 +1,64 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Matrix",
+        "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+        "posterUrl": "posters/matrix.jpg",
+        "backdropUrl": "backdrops/matrix_bg.jpg",
+        "videoUrl": "videos/matrix.mp4",
+        "releaseYear": 1999,
+        "rating": 8.7,
+        "genre": ["Action", "Sci-Fi"],
+        "duration": "136 min"
+      },
+      {
+        "id": 2,
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into someone's mind.",
+        "posterUrl": "posters/inception.jpg",
+        "backdropUrl": "backdrops/inception_bg.jpg",
+        "videoUrl": "videos/inception.mp4",
+        "releaseYear": 2010,
+        "rating": 8.8,
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "duration": "148 min"
+      },
+      {
+        "id": 3,
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "posterUrl": "posters/shawshank.jpg",
+        "backdropUrl": "backdrops/shawshank_bg.jpg",
+        "videoUrl": "videos/shawshank.mp4",
+        "releaseYear": 1994,
+        "rating": 9.3,
+        "genre": ["Drama"],
+        "duration": "142 min"
+      },
+      {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "posterUrl": "posters/pulpfiction.jpg",
+        "backdropUrl": "backdrops/pulpfiction_bg.jpg",
+        "videoUrl": "videos/pulpfiction.mp4",
+        "releaseYear": 1994,
+        "rating": 8.9,
+        "genre": ["Crime", "Drama"],
+        "duration": "154 min"
+      },
+      {
+        "id": 5,
+        "title": "Interstellar",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "posterUrl": "posters/interstellar.jpg",
+        "backdropUrl": "backdrops/interstellar_bg.jpg",
+        "videoUrl": "videos/interstellar.mp4",
+        "releaseYear": 2014,
+        "rating": 8.6,
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "duration": "169 min"
+      }
+    ]
+  }
